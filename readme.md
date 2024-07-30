@@ -1,5 +1,7 @@
 # Seeking Kotlin Developers - OpenMRS – FHIR
 
+*"Everyone can, in one way or another, each in their sphere, and according to their strength contribute to some extent to this good work"* - Henri Dunant
+
 The International Committee of the Red Cross (ICRC) is seeking Kotlin Developers that can support its efforts in building an Offline-Capable Android Application integrated with enhanced OpenMRS 3.0 FHIR Module.
 
 ## How to contribute?
@@ -24,7 +26,3 @@ Participation in this project does not create or acknowledge any employment rela
 
 ## Data Protection
 All personal data is processed in accordance with the ICRC Rules on Personal Data Protection. Please see the [Information Notice](https://github.com/digitharium/seeking-kotlin-dev-openmrs-fhir/blob/main/Information%20Notice%20-%20Processing%20of%20personal%20data%20by%20the%20ICRC%20-%20OpenMRS%20FHIR%20Kotlin%20Developers.md) for further information.
-
-
-
-*"Everyone can, in one way or another, each in their sphere, and according to their strength contribute to some extent to this good work"* - Henri Dunant
